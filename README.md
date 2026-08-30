@@ -1,3 +1,63 @@
+# Hi, I'm Ziyun Lan 👋
+
+I am a software engineer and AI application developer interested in building reliable systems with large language models, retrieval-augmented generation and intelligent agents.
+
+## About Me
+
+- Interested in **RAG**, **LLM Agents**, **multimodal AI** and **medical vision-language models**.
+- Experienced in building full-stack applications with Java, Spring Boot, Vue 3 and MySQL.
+- Currently exploring LangChain, LangGraph, Chroma, prompt engineering and agent tool orchestration.
+- Focused on turning AI capabilities into practical, maintainable software systems.
+
+## Featured Projects
+
+### [SweepMind AI](https://github.com/lzy1390407584-byte/sweepmind-ai)
+
+RAG-powered intelligent agent for robot vacuum cleaners, built with LangChain, Chroma and Streamlit.
+
+- ReAct-style agent with multiple tools.
+- Domain question answering over TXT and PDF knowledge bases.
+- Dynamic prompt switching for normal Q&A and personalized usage reports.
+- Tool-call monitoring and model-call logging through middleware.
+
+### [Tlias Management](https://github.com/lzy1390407584-byte/tlias-management)
+
+A full-stack teaching and training management system based on Spring Boot and Vue 3.
+
+- Employee, student, department and class management.
+- JWT authentication and route guards.
+- MyBatis pagination and RESTful API design.
+- Operation logs, login logs and ECharts-based data reporting.
+
+## Research Experience
+
+### [EyeVQA](https://github.com/PKUTHM/EyeVQA)
+
+Co-author of **EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding**.
+
+EyeVQA is an ophthalmic vision-language benchmark that unifies 21 public ophthalmic datasets into approximately 20,000 clinically grounded question-answer pairs. The benchmark evaluates disease recognition, multi-image comparative reasoning, point localization and bounding-box grounding across multiple ophthalmic disease groups.
+
+My name appears in the paper’s author list as **Ziyun Lan**. The work was accepted by the **MICCAI 2026 Workshop CREATE**.
+
+## Technical Interests
+
+```text
+LLM Applications · RAG · AI Agents · Multimodal AI
+LangChain · LangGraph · Chroma · Prompt Engineering
+Python · Java · Spring Boot · Vue 3 · MySQL
+```
+
+## Selected Repositories
+
+- [SweepMind AI](https://github.com/lzy1390407584-byte/sweepmind-ai) — RAG and Agent application for robot-vacuum assistance.
+- [Tlias Management](https://github.com/lzy1390407584-byte/tlias-management) — Full-stack teaching management platform.
+- [EyeVQA](https://github.com/PKUTHM/EyeVQA) — Ophthalmic vision-language model benchmark contributed to as a co-author.
+
+## Contact
+
+- GitHub: [@lzy1390407584-byte](https://github.com/lzy1390407584-byte)
+- Email: lzy1390407584@gmail.com
+
 ## Hi there 👋
 
 <!--
