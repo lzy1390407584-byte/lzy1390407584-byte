@@ -72,7 +72,7 @@ Python · Java · Spring Boot · Vue 3 · MySQL
 ## Contact
 
 - GitHub: [@lzy1390407584-byte](https://github.com/lzy1390407584-byte)
-- Email: lzy1390407584@gmail.com
+- Email: lanziyun@u.nus.edu
 
 # Hi, I'm Ziyun Lan 👋
 
